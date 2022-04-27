@@ -1,4 +1,4 @@
-remote_theme: tekgainers/minimal-mistakes
+remote_theme: just-the-docs/just-the-docs
 minimal_mistakes_skin: "dark"
 defaults:
   # _posts
