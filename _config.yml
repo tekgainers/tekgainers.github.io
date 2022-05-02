@@ -1,9 +1,2 @@
 remote_theme: just-the-docs/just-the-docs
-minimal_mistakes_skin: "dark"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: true
+color_scheme: dark
